@@ -1,4 +1,6 @@
 book/
+.vscode/
+.dist/
 
 # eBook build output
 *.epub
